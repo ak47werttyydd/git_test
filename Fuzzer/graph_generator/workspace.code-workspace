@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "../../../tutorial/python_script"
+		},
+		{
+			"path": "../.."
+		},
+		{
+			"path": "../../../pytorch_tutorial"
+		},
+		{
+			"path": "../../../networkx_tutorial"
+		}
+	],
+	"settings": {}
+}
